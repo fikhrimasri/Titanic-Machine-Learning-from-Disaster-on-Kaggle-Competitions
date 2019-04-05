@@ -6,4 +6,4 @@ safety regulations for ships.<br>
 
 # Practice Skills
 Binary classification<br>
-Python and R basics
+Python Basic
